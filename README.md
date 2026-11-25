@@ -2,7 +2,7 @@
 
 **Always learning. Always securing.**
 
-Check out my blog:
+
 
 [Check out my blog!](https://rootr4coon-blog.hashnode.dev)
 
